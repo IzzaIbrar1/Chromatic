@@ -27,5 +27,3 @@ Flutter (Dart), SQLite (sqflite), flutter_local_notifications, Android.
 2. Clone this repository.
 3. Run `flutter pub get`.
 4. Run `flutter run` with an Android emulator or phone connected.
-
-The Flutter project will be added in Assignment 2.
