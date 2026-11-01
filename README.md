@@ -1,7 +1,8 @@
-# Chromatic
+ Assignment 1.
+ App Ttile:  Chromatic
 
 A color-based daily journal for Android.
-Course: Mobile Application Development. Assignment 1.
+Course: Mobile Application Development.
 
 **Group: 09**
 
