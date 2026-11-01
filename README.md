@@ -7,9 +7,9 @@ Course: Mobile Application Development.
 **Group: 09**
 
 **Members**
-- Izza Ibrar - B24S1000CS049
-- Gulfam Hamid - B24S0002CS013
-- Abdul Hadi - B24S1018CS036
+- Izza Ibrar - B24S1000CS049.
+- Gulfam Hamid - B24S0002CS013.
+- Abdul Hadi - B24S1018CS036.
 
 ## Project description
 Chromatic lets university students record each day as a color with an optional title and short note. Saved days appear as colored squares on a monthly calendar. All data stays on the phone.
