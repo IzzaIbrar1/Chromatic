@@ -3,7 +3,7 @@
 A color-based daily journal for Android.
 Course: Mobile Application Development. Assignment 1.
 
-**Group:**
+**Group: 09**
 
 **Members**
 - Izza Ibrar - B24S1000CS049
